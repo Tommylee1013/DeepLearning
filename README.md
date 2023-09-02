@@ -11,5 +11,6 @@
   - Day5 : Variation Auto Encoder
   - Day6 : DCGAN
 - Homework 1 : Understanding to Neural Network
-- Homework 2 
-- Project (Homework 3)
+- Homework 2 : Convolutional Neural Network
+- Homework 3 : Convolutional Recurrent Neural Network
+- Project
